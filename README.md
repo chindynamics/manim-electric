@@ -3,6 +3,11 @@ manim-electric is a Python library designed to simplify the creation and animati
 
 manim-electric is built to be flexible and scalable, enabling the addition of new components such as capacitors, inductors, or switches with minimal changes to the core connection logic. The design encourages further enhancements, including improved node grouping and advanced wiring functionalities, making it an excellent tool for educators, students, and anyone interested in visualizing electrical circuits. The project welcomes contributions from the community; developers are encouraged to open issues and submit pull requests to enhance functionality or improve documentation. Distributed under the MIT License, manim-electrical is open, accessible, and free to use for both personal and commercial projects.
 
+## Roadmap
+
+**Under development**
+The initial release of manim-electric is planned for late June, as I balance this project with university. My goal is to maintain and evolve this library into a comprehensive toolkit for animating electrical circuits in Manim. Community support and contributions will be essential—if you’re passionate about electrical animations, your ideas, feedback, and pull requests are highly welcome!
+
 # Documentation
 
 ## CircuitElement (Class)
