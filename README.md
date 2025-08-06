@@ -6,7 +6,7 @@ manim-electric is built to be flexible and scalable, enabling the addition of ne
 ## Roadmap
 
 **Under development**
-The initial release of manim-electric is planned for late June, as I balance this project with university. My goal is to maintain and evolve this library into a comprehensive toolkit for animating electrical circuits in Manim. Community support and contributions will be essential, if you’re passionate about electrical animations, your ideas, feedback, and pull requests are highly welcome!
+The initial release of manim-electric is planned for late August, as I balance this project with university. My goal is to maintain and evolve this library into a comprehensive toolkit for animating electrical circuits in Manim. Community support and contributions will be essential, if you’re passionate about electrical animations, your ideas, feedback, and pull requests are highly welcome!
 
 # Documentation
 
